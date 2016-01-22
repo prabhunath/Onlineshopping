@@ -1,0 +1,25 @@
+SMAP
+user_005fshipment_jsp.java
+JSP
+*S JSP
+*F
++ 0 user_shipment.jsp
+user_shipment.jsp
++ 1 header.jsp
+header.jsp
++ 2 connect.jsp
+connect.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,5:56
+1#1,54:60
+9#0,29:114
+1#2,2:143
+5,4:147
+37#0,2:151
+39,37:154
+75,21:191
+5#3,28:212
+95#0,3:239
+*E

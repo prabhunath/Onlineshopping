@@ -1,0 +1,98 @@
+body{
+                background-color: #fffff;
+                background-repeat: round;
+            }
+            
+            .xyz{
+                
+                display: inline-block;
+                border:1px solid;
+                border-radius: 5px;
+                
+            
+            }
+            .btn
+            { 
+                border:0px solid white;
+                border-radius:25px;
+            }
+            .abc
+            {
+                border:2px solid ;
+                margin-left: 965px;
+                
+                                
+            }
+            .one
+            {
+                display: inline-block;
+                border:4px solid #ff9999;
+                border-radius: 34px 0px 34px 0px;
+               height:170px;
+               background-color: #00ffff;
+               margin-top: 50px;
+               color:#990000;
+              
+            }
+            
+            .banner
+            {
+                background-image: url("Images/banner.jpg");
+                border:3px solid #00ff00;
+                border-radius:40px 0px 40px 0px;
+                width:730px;
+                height:300px;
+            }
+            
+            
+            .banner1
+            {
+                background-image: url("Images/hp.jpg");
+                border:3px solid #00ff00;
+                border-radius:40px 0px 40px 0px;
+                width:400px;
+                height:170px;
+            }
+            .banner2
+            {
+                background-image: url("Images/kurti.jpg");
+                border:3px solid #00ff00;
+                border-radius:0px 0px 0px 0px;
+                width:730px;
+                height:170px;
+            }
+            .banner3
+            {
+                background-image: url("Images/A21.jpg");
+                border:3px solid #00ff00;
+                border-radius:40px 0px 40px 0px;
+                width:330px;
+                height:170px;
+            }
+            #bannerleft
+            {
+                background-image: url("Images/icon.jpg");
+                border:3px solid #00ff00;
+                border-radius:40px 0px 40px 0px;
+                height:220px;
+                background-repeat: no-repeat;
+            }
+            .mr{
+                background-color: #ff00ff;
+                border:1px solid #00ffff;
+                border-radius:12px 12px 12px 12px;
+            }
+            .header{
+                background-image: url("Images/banner.jpg");
+                border:3px solid #00ff00;
+                border-radius:40px 0px 40px 0px;
+                width:730px;
+                height:280px;
+                
+            }
+            .mm{
+                color:#0000cc;
+                font-size: x-large;
+            }
+            
+            

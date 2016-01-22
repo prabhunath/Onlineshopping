@@ -1,0 +1,29 @@
+SMAP
+purchase_jsp.java
+JSP
+*S JSP
+*F
++ 0 purchase.jsp
+purchase.jsp
++ 1 header.jsp
+header.jsp
++ 2 connect.jsp
+connect.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,5:56
+1#1,54:60
+5#0,80:114
+1#2,2:194
+5,4:198
+84#0:202,2
+86,46:205
+131,18:251
+149:269,3
+150,22:272
+172,7:295
+178,10:302
+5#3,28:312
+187#0,3:339
+*E

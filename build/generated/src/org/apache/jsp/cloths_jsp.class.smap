@@ -1,0 +1,20 @@
+SMAP
+cloths_jsp.java
+JSP
+*S JSP
+*F
++ 0 cloths.jsp
+cloths.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,5:53
+1#1,48:57
+9#0,125:105
+134,48:231
+181,17:279
+5#2,28:296
+197#0,3:323
+*E

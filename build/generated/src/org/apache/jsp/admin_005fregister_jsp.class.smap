@@ -1,0 +1,25 @@
+SMAP
+admin_005fregister_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_register.jsp
+admin_register.jsp
++ 1 header.jsp
+header.jsp
++ 2 connect.jsp
+connect.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5:56
+1#1,49:57
+6#0,82:106
+1#2,2:188
+5,4:192
+87#0,2:196
+90,28:200
+117,4:228
+5#3,28:232
+120#0,3:259
+*E

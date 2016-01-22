@@ -1,0 +1,74 @@
+SPECIFICATIONS OF SONY VAIO FIT 15E SVF15318SNW LAPTOP (4TH GEN CI5/ 4GB/ 500GB/ WIN8/ 1GB GRAPH) (WHITE)
+IN THE BOX
+Sales Package	Laptop, Battery, AC Adapter, User Guide and Manuals
+GENERAL
+Brand	Sony
+Model Name	VAIO Fit 15E
+Lifestyle	Entertainment
+Color	White
+Part Number	SVF15318SNW
+Model ID	SVF15318SNW
+PROCESSOR
+Processor	Core i5 (4th Gen)
+Variant	4200U
+Chipset	QM87
+Brand	Intel
+Clock Speed	1.6 GHz with Turbo Boost Upto 2.6 GHz
+Cache	3 MB
+MEMORY
+Expandable Memory	Upto 8 GB
+Memory Slots	2 (Unused Slot - 1)
+System Memory	4 GB DDR3
+RAM Frequency	1600 MHz
+STORAGE
+Hardware Interface	SATA
+RPM	5400
+HDD Capacity	500 GB
+OPTICAL DISK DRIVE
+Read/Write Speed	8x
+Optical Drive	SuperMulti DVD RW Drive
+PLATFORM
+Operating System	Windows 8
+System Architecture	64 bit
+OS Architecture	64 bit
+DISPLAY
+Screen Size	15.5 inch
+Resolution	1366 x 768 Pixel
+Screen Type	TFT Color Display with LED Backlit
+GRAPHICS
+Dedicated Graphics Memory Type	DDR3
+Dedicated Graphics Memory Capacity	1 GB
+Graphic Processor	NVIDIA GeForce GT 740M
+INPUT
+Web Camera	0.92 Megapixel HD Webcam
+Pointer Device	Touchpad with Gesture Support
+Keyboard	Standard Keyboard
+AUDIO
+Internal Mic	Monaural Microphone
+Audio Chips	Intel HD Audio
+Speakers	Yes
+Sound	Built-in Stereo Speakers with Subwoofer, S-Force Front Surround 3D, Clear Phase, ClearAudio+ Mode, xLOUD, VPT
+COMMUNICATION
+Ethernet	10/100/1000 BASE-T LAN
+Wireless LAN	IEEE 802.11b/g/n
+Bluetooth	v4.0
+NFC	Yes
+POWER
+Battery Backup	Upto 5 hours
+Battery Cell	4 cell
+PORTS/SLOTS
+USB Port	2 x USB 2.0, 2 x USB 3.0 (Including 1 x with Charging Function)
+Mic In	Yes
+RJ45 LAN	Yes
+HDMI Port	Yes
+Multi Card Slot	SD Card Support
+Other Ports	1 x Headphone Jack
+MACHINE DIMENSIONS
+Weight	2.5 kg
+Dimension	380.3 x 25.1 x 260.8 mm
+Color	White
+WARRANTY
+Warranty Summary	1 Year Onsite Warranty
+Was the product specification helpful?
+ Yes
+No

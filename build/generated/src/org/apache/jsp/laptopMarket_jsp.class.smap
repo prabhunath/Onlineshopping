@@ -1,0 +1,21 @@
+SMAP
+laptopMarket_jsp.java
+JSP
+*S JSP
+*F
++ 0 laptopMarket.jsp
+laptopMarket.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,2:53
+7,4:55
+1#1,48:58
+10#0,142:106
+152,37:249
+188,37:286
+5#2,28:323
+224#0,3:350
+*E

@@ -1,0 +1,25 @@
+SMAP
+mobileMarket_jsp.java
+JSP
+*S JSP
+*F
++ 0 mobileMarket.jsp
+mobileMarket.jsp
++ 1 header.jsp
+header.jsp
++ 2 connect.jsp
+connect.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,4:56
+1#1,54:59
+4#0,96:113
+1#2,2:209
+5,4:213
+99#0,2:217
+101,40:220
+140,41:260
+5#3,28:301
+180#0,3:328
+*E
